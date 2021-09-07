@@ -1,1 +1,0 @@
-web: gunicorn DreamEco.wsgi --log-file
